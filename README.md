@@ -1,5 +1,5 @@
 # About
-Welcome to my Protfolio. 
+Welcome to my Portfolio. 
 Introduction...
 ## Projects
 ### [Exploratory Data Analysis of the Data Science Job market](https://sebastianghafafian.github.io/Portfolio/EDA_Data_Science_Job_Market.html)
