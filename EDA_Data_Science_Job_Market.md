@@ -1,4 +1,4 @@
-[Return to Main Page](https://sebastianghafafian.github.io/Portfolio/)
+[Return to Portfolio Page](https://sebastianghafafian.github.io/Portfolio/)
 
 # Exploratory Data Analysis of the Data Science Job market
 ## Introduction
@@ -12,4 +12,4 @@
 ## Conclusion
 
 
-[Return to Main Page](https://sebastianghafafian.github.io/Portfolio/)
+[Return to Portfolio Page](https://sebastianghafafian.github.io/Portfolio/)
