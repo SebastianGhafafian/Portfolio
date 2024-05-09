@@ -1,6 +1,7 @@
 [Return to Portfolio Page](https://sebastianghafafian.github.io/Portfolio/)
 
 # Convolutional Neural Network (CNN) to detect circles in noisy images
+Check out the project on Github
 ## Introduction
 
 ## Data Creation
