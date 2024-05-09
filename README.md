@@ -21,9 +21,9 @@ GitHub Link
 ### [Convolutional Neural Network (CNN) to detect circles in noisy images](https://sebastianghafafian.github.io/Portfolio/CNN.html)
 
 To get hand-on experience with the Pytorch libraries I created this small project which can be broken down in the follwing steps:
-* creating a data set of images including a circle of variable size and position
-* building and training a CNN model using Google Colab
-* model verification and visualization of performance
+* creating a data set of noisy grayscale images containng a circle of variable size and position
+* building and training a CNN model to return the radius and position of the circle using Google Colab
+* model verification and visualization of the model's performance
 
 GitHub Link
   
