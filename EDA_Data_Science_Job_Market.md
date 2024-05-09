@@ -1,6 +1,9 @@
 [Return to Portfolio Page](https://sebastianghafafian.github.io/Portfolio/)
 
 # Exploratory Data Analysis of the Data Science Job market
+
+Check out the project on Github
+
 ## Introduction
 
 ## Data Import and Clean Up
