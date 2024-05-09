@@ -35,19 +35,19 @@ GitHub Link
 
 ## Work Experience
 
-Structural Engineer for Composite Materials @ TPI Composites Germany GmbH
+**Structural Engineer for Composite Materials** @ TPI Composites Germany GmbH
 
 01/2021 – 08/2023 Berlin, Germany
 
-Research Associate @ Federal Institute for Materials Research and Testing (BAM)
+**Research Associate** @ Federal Institute for Materials Research and Testing (BAM)
 
 11/2019 – 12/2020 Berlin, Germany
 
-Intern for Composite Materials and Manufacturing @ Institute for the Research and Development of Sports Equipment (FES)
+**Intern for Composite Materials and Manufacturing** @ Institute for the Research and Development of Sports Equipment (FES)
 
 10/2016 – 09/2018 Berlin, Germany
 
-Teaching Assistant Technical University Berlin
+**Teaching Assistant** @ Technical University Berlin
 
 10/2016 – 09/2018 Berlin, Germany
 
