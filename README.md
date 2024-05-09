@@ -13,6 +13,8 @@ Feel free to check out my projects related to data science.
 
 This projects looks at a data set published by Glassdoor about job postings in America realted to the field of data. The project entails cleaning the data, feature engineering and exploratory data analysis drawing insights about the job market and desired skills and potential employers in the LA area.
 
+GitHub Link
+
 
 ### [Convolutional Neural Network (CNN) to detect circles in noisy images](https://sebastianghafafian.github.io/Portfolio/CNN.html)
 
@@ -20,6 +22,8 @@ To get hand-on experience with the Pytorch libraries I created this small projec
 * creating a data set of images including a circle of variable size and position
 * building and training a CNN model using Google Colab
 * model verification and visualization of performance
+
+GitHub Link
   
 ## Education
 
