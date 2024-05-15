@@ -11,9 +11,7 @@ I am a passionate learner and I love walking through life picking up new skills 
 
 Feel free to check out my projects related to data science. 
 
-[Exploratory Data Analysis of the Data Science Job market](https://sebastianghafafian.github.io/Portfolio/EDA.html)
-
-### [Exploratory Data Analysis of the Data Science Job market](https://sebastianghafafian.github.io/Portfolio/EDA_Data_Science_Job_Market.html)
+### [Exploratory Data Analysis of the Data Science Job market](https://sebastianghafafian.github.io/Portfolio/EDA.html)
 
 This projects looks at a data set published by Glassdoor about job postings in America realted to the field of data. The project entails cleaning the data, feature engineering and exploratory data analysis drawing insights about the job market and desired skills and potential employers in the LA area.
 
