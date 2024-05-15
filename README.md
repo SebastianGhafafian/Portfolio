@@ -5,6 +5,8 @@ My name is Sebastian Ghafafian. I am originally from Leipzig, Germany where I gr
 
 Currently, I am looking for job oppurtunities in the field of data science or engineering where I can leverage my data related skill set. Feel free to reach out to me on LinkedIn or via email or to check out my [resume](https://github.com/SebastianGhafafian/Portfolio/blob/main/docs/assets/resume/CV_SebastianGhafafian.pdf).
 
+<a href="https://github.com/SebastianGhafafian/Portfolio/blob/main/docs/assets/resume/CV_SebastianGhafafian.pdf" target="_blank">Resume.</a>
+
 <a href="SebastianGhafafian/Portfolio/blob/main/docs/assets/resume/CV_SebastianGhafafian.pdf" target="_blank">Resume.</a>
 
 <a href="SebastianGhafafian/Portfolio/tree/main/docs/assets/resume/CV_SebastianGhafafian.pdf" target="_blank">Resume.</a>
