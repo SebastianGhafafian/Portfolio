@@ -5,6 +5,8 @@ My name is Sebastian Ghafafian. I am originally from Leipzig, Germany where I gr
 
 Currently, I am looking for job oppurtunities in the field of data science or engineering where I can leverage my data related skill set. Feel free to reach out to me on LinkedIn or via email or to check out my [resume](https://github.com/SebastianGhafafian/Portfolio/blob/main/docs/assets/resume/CV_SebastianGhafafian.pdf).
 
+<embed src="https://github.com/SebastianGhafafian/Portfolio/blob/main/docs/assets/resume/CV_SebastianGhafafian.pdf" type="application/pdf" />
+
 I am a passionate learner and I love walking through life picking up new skills along the way. Currently, learning to play the guitar and to speak Armenian keep the brain juices flowing. Besides that, I have a weird passion for fixing or repairing broken things.
 
 ## Projects
