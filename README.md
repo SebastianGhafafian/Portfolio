@@ -3,17 +3,7 @@ Hi there! Welcome to my Portfolio.
 
 My name is Sebastian Ghafafian. I am originally from Leipzig, Germany where I grew up. I moved to Berlin to study mechanical engineering. After receiving my Bachelor's and Master's degree, I worked four years in engineering positions (strong focus on composite materials) in the field of sustainable energy. I quickly found out that I love programming and working with data to gain meaningful insights. This lead me to join the MicroMaster's program in Statistics and Data Science from MIT, where I received a very broad yet in-depth understanding for statistics and machine learning algorithms.
 
-Currently, I am looking for job oppurtunities in the field of data science or engineering where I can leverage my data related skill set. Feel free to reach out to me on LinkedIn or via email or to check out my [resume](https://github.com/SebastianGhafafian/Portfolio/blob/main/docs/assets/resume/CV_SebastianGhafafian.pdf).
-
-<a href="https://github.com/SebastianGhafafian/Portfolio/blob/main/docs/assets/resume/CV_SebastianGhafafian.pdf" target="_blank">Resume.</a>
-
-<a href="SebastianGhafafian/Portfolio/blob/main/docs/assets/resume/CV_SebastianGhafafian.pdf" target="_blank">Resume.</a>
-
-<a href="SebastianGhafafian/Portfolio/tree/main/docs/assets/resume/CV_SebastianGhafafian.pdf" target="_blank">Resume.</a>
-
-
-
-<embed src="https://github.com/SebastianGhafafian/Portfolio/blob/main/docs/assets/resume/CV_SebastianGhafafian.pdf" type="application/pdf" />
+Currently, I am looking for job oppurtunities in the field of data science or engineering where I can leverage my data related skill set. Feel free to reach out to me on LinkedIn or via email or to check out my [resume](https://github.com/SebastianGhafafian/Portfolio/docs/assets/resume/CV_SebastianGhafafian.pdf). 
 
 I am a passionate learner and I love walking through life picking up new skills along the way. Currently, learning to play the guitar and to speak Armenian keep the brain juices flowing. Besides that, I have a weird passion for fixing or repairing broken things.
 
