@@ -25,7 +25,7 @@ To get hand-on experience with the Pytorch libraries I created this small projec
 * building and training a CNN model to return the radius and position of the circle using Google Colab
 * model verification and visualization of the model's performance
 
-GitHub Link
+[Github Link](https://github.com/SebastianGhafafian/Circle_CNN)
   
 ## Education
 
