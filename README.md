@@ -20,7 +20,6 @@ This projects looks at a data set scraped from Glassdoor.com about job postings 
 
 ### [Convolutional Neural Network (CNN) to detect circles in noisy images](https://sebastianghafafian.github.io/Portfolio/Circle_CNN.html)
 
-### [Convolutional Neural Network (CNN) to detect circles in noisy images](https://sebastianghafafian.github.io/Portfolio/Circle_CNN.md)
 To get hand-on experience with the Pytorch libraries I created this small project which can be broken down in the follwing steps:
 * creating a data set of noisy grayscale images containng a circle of variable size and position
 * building and training a CNN model to return the radius and position of the circle using Google Colab
