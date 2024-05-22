@@ -1,4 +1,5 @@
 # About
+
 Hi there! Welcome to my Portfolio.
 
 My name is Sebastian Ghafafian. I am originally from Leipzig, Germany where I grew up. I moved to Berlin to study mechanical engineering. After receiving my Bachelor's and Master's degree, I worked four years in engineering positions (strong focus on composite materials) in the field of sustainable energy. I quickly found out that I love programming and working with data to gain meaningful insights. This lead me to join the MicroMaster's program in Statistics and Data Science from MIT, where I received a very broad yet in-depth understanding for statistics and machine learning algorithms.
@@ -13,17 +14,18 @@ Feel free to check out my projects related to data science.
 
 ### [Exploratory Data Analysis of the Data Science Job market](https://sebastianghafafian.github.io/Portfolio/EDA.html)
 
-This projects looks at a data set scraped from Glassdoor.com about job postings in America realted to the field of data. The project entails cleaning the data, feature engineering and exploratory data analysis drawing insights about the job market and desired skills and potential employers in the LA area.
+<img src="./docs/assets/images/map_interactive.gif" alt="Gif of interactive map" width="600"/>
+
+This projects looks at a data set scraped from Glassdoor.com about job postings in America related to the field of data. The project entails cleaning the data, feature engineering, exploratory data analysis and creating interactive maps to draw insights about the job market, desired skills and potential employers in the Los Angeles area.
 
 [Github Link](https://github.com/SebastianGhafafian/EDA_Data_Science_Job_Market)
 
 
 ### [Convolutional Neural Network (CNN) to detect circles in noisy images](https://sebastianghafafian.github.io/Portfolio/Circle_CNN.html)
 
-To get hand-on experience with the Pytorch libraries I created this small project which can be broken down in the follwing steps:
-* creating a data set of noisy grayscale images containng a circle of variable size and position
-* building and training a CNN model to return the radius and position of the circle using Google Colab
-* model verification and visualization of the model's performance
+<img src="./Circle_CNN_files/CustomCNN3.png" alt="CustomCNN3" width="600"/>
+
+This project sets up a relatively straightforward task for a Convoultional Neural Network to perform a regression task. Images contain a circle or random size and position. The goal is to output the position (x,y) and the radius r of the circle for varying levels of noise in the images. Two models are built and trained using PyTorch and their performances are analyzed.
 
 [Github Link](https://github.com/SebastianGhafafian/Circle_CNN)
   
@@ -36,19 +38,19 @@ To get hand-on experience with the Pytorch libraries I created this small projec
 ## Work Experience
 
 **Structural Engineer for Composite Materials** \
-@ TPI Composites Germany GmbH \
-01/2021 – 08/2023 Berlin, Germany
+@ TPI Composites Germany GmbH in Berlin, Germany\
+01/2021 – 08/2023 
 
 **Research Associate** \
-@ Federal Institute for Materials Research and Testing (BAM) \
-11/2019 – 12/2020 Berlin, Germany
+@ Federal Institute for Materials Research and Testing (BAM) in Berlin, Germany\
+11/2019 – 12/2020 
 
 **Intern for Composite Materials and Manufacturing** \
-@ Institute for the Research and Development of Sports Equipment (FES) \
-10/2016 – 09/2018 Berlin, Germany
+@ Institute for the Research and Development of Sports Equipment (FES) Berlin, Germany\
+10/2016 – 09/2018
 
 **Teaching Assistant** \
-@ Technical University Berlin \
-10/2016 – 09/2018 Berlin, Germany
+@ Technical University Berlin in Berlin, Germany\
+10/2016 – 09/2018
 
 
