@@ -4,12 +4,10 @@ remote_theme: pages-themes/minimal@v0.2.0
 #- jekyll-remote-theme # add this line to the plugins list if you already have one
 logo: /docs/assets/images/Portrait_circle.png
 
-description: [
+description: 
   Data scientist and mechanical engineer with four years of experience at the
   intersection of industry and academia. Creative problem solver with an eye for
   detail. Collaborative and fast learner able to tackle new challenges with a
-  positive attitude. ,
-  test2,
-  test3]
+  positive attitude.
 
 
