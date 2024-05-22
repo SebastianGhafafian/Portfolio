@@ -43,6 +43,11 @@ Keywords: Convolutional Neural Networks (CNN), Pytorch, Regression, Data visuali
 * M.Sc. Mechanical Engineering Technical University of Berlin (TUB)
 * B.Sc. Mechanical Engineering Technical University of Berlin (TUB)
 
+## Certificates
+
+* Quality Engineer - Green Belt
+* IBM Data Science Professional Certificate
+  
 ## Work Experience
 
 **Structural Engineer for Composite Materials** \
