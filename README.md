@@ -8,7 +8,7 @@ I am a passionate learner and I love walking through life picking up new skills 
 \
 Currently, I am looking for job oppurtunities in the field of data science or mechanical engineering where I can leverage my data related skill set. \
 \
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sebastian-ghafafian) or via [email](sghafafian@gmail.com) or to check out my [resume](https://github.com/SebastianGhafafian/Portfolio/blob/main/docs/assets/resume/CV_SebastianGhafafian.pdf). 
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sebastian-ghafafian) or via email (sghafafian@gmail.com) or to check out my [resume](https://github.com/SebastianGhafafian/Portfolio/blob/main/docs/assets/resume/CV_SebastianGhafafian.pdf). 
 
 
 
