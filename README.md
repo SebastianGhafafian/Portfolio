@@ -39,9 +39,9 @@ Keywords: Convolutional Neural Networks (CNN), Pytorch, Regression, Data visuali
   
 ## Education
 
-* MicroMaster in Statistics and Data Science Massachusetts Institute of Technology (MITx via edX)
-* M.Sc. Mechanical Engineering Technical University of Berlin (TUB)
-* B.Sc. Mechanical Engineering Technical University of Berlin (TUB)
+* MicroMaster in Statistics and Data Science - Massachusetts Institute of Technology (MITx via edX)
+* M.Sc. Mechanical Engineering - Technical University of Berlin (TUB)
+* B.Sc. Mechanical Engineering - Technical University of Berlin (TUB)
 
 ## Certificates
 
@@ -50,11 +50,11 @@ Keywords: Convolutional Neural Networks (CNN), Pytorch, Regression, Data visuali
   
 ## Work Experience
 
-**Structural Engineer for Composite Materials** \
+**Mechanical Design Engineer for Composite Structures** \
 @ TPI Composites Germany GmbH in Berlin, Germany\
 01/2021 – 08/2023 
 
-**Research Associate** \
+**Research Associate, Hydrogen Storage Safety Engineer** \
 @ Federal Institute for Materials Research and Testing (BAM) in Berlin, Germany\
 11/2019 – 12/2020 
 
