@@ -1,7 +1,12 @@
-title: Sebastian Ghafafian
+title: Portfolio
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [Sebastian Ghafafian]
 logo: /docs/assets/images/Portrait_circle.png
-description: [Data Scientist]
+author:
+name: Sebastian Ghafafian
+email: sghafafian@gmail.com
+description: [Data scientist and mechanical engineer with four years of experience at the
+intersection of industry and academia. Creative problem solver with an eye for
+detail. Collaborative and fast learner able to tackle new challenges with a
+positive attitude.]
