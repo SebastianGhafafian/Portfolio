@@ -14,18 +14,22 @@ Feel free to check out my projects related to data science.
 
 ### [Exploratory Data Analysis of the Data Science Job market](https://sebastianghafafian.github.io/Portfolio/EDA.html)
 
-<img src="./docs/assets/images/map_interactive.gif" alt="Gif of interactive map" width="600"/>
+<img src="./docs/assets/images/map_interactive.gif" alt="Gif of interactive map" width="500"/>
 
 This projects looks at a data set scraped from Glassdoor.com about job postings in America related to the field of data. The project entails cleaning the data, feature engineering, exploratory data analysis and creating interactive maps to draw insights about the job market, desired skills and potential employers in the Los Angeles area.
+
+Keywords: EDA, Data visualization, Folium, Pandas, One-Hot Encoding, Cleaning data, Word Clouds
 
 [Github Link](https://github.com/SebastianGhafafian/EDA_Data_Science_Job_Market)
 
 
 ### [Convolutional Neural Network (CNN) to detect circles in noisy images](https://sebastianghafafian.github.io/Portfolio/Circle_CNN.html)
 
-<img src="./Circle_CNN_files/CustomCNN3.png" alt="CustomCNN3" width="600"/>
+<img src="./Circle_CNN_files/CustomCNN3.png" alt="CustomCNN3" width="500"/>
 
 This project sets up a relatively straightforward task for a Convoultional Neural Network to perform a regression task. Images contain a circle or random size and position. The goal is to output the position (x,y) and the radius r of the circle for varying levels of noise in the images. Two models are built and trained using PyTorch and their performances are analyzed.
+
+Keywords: Convolutional Neural Networks (CNN), Pytorch, Regression, Data visualization, Pandas
 
 [Github Link](https://github.com/SebastianGhafafian/Circle_CNN)
   
@@ -46,7 +50,7 @@ This project sets up a relatively straightforward task for a Convoultional Neura
 11/2019 – 12/2020 
 
 **Intern for Composite Materials and Manufacturing** \
-@ Institute for the Research and Development of Sports Equipment (FES) Berlin, Germany\
+@ Institute for the Research and Development of Sports Equipment (FES) in Berlin, Germany\
 10/2016 – 09/2018
 
 **Teaching Assistant** \
