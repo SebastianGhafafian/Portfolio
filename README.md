@@ -18,7 +18,7 @@ Feel free to check out my projects related to data science.
 
 ### [Nutritionist](https://github.com/SebastianGhafafian/Nutritionist)
 
-<img src="./assets/images/Pie.png" alt="Pie Chart" width="500"/>
+<img src="./docs/assets/images/Pie.png" alt="Pie Chart" width="500"/>
 
 We are what we eat. But often, we don't know what we eat. This project creates a dashboard app using Dash to load, modify and create recipes. Using a extensive database in the backgorund, the dashboard give a quick overview and a detail view of the nutritional value of the recipe. The [dashboard](https://nutritionist-yrrn.onrender.com/) is deployed using Render. Try to find ouut what's in your favorite snack!
 
