@@ -2,7 +2,7 @@
 
 Hi there! Welcome to my Portfolio.
 
-My name is Sebastian Ghafafian. I am originally from Leipzig, Germany where I grew up. I moved to Berlin to study mechanical engineering. After receiving my Bachelor's and Master's degree, I worked four years in engineering positions (strong focus on composite materials) in the field of sustainable energy. I quickly found out that I love programming and working with data to gain meaningful insights. This lead me to join the MicroMaster's program in Statistics and Data Science from MIT, where I received a very broad yet in-depth understanding for statistics and machine learning algorithms. \
+My name is Sebastian Ghafafian. I am originally from Leipzig, Germany where I grew up. I moved to Berlin to study mechanical engineering. After receiving my Bachelor's and Master's degree, I worked four years in data-intensive engineering positions (strong focus on composite materials) in the field of sustainable energy. I quickly found out that I love programming and working with data to gain meaningful insights. This led me to join the MicroMaster's program in Statistics and Data Science from MIT, where I received a very broad yet in-depth understanding for statistics and machine learning algorithms. \
 \
 I am a passionate learner and I love walking through life picking up new skills along the way. Currently, learning to play the guitar and to speak Armenian keep the brain juices flowing. Besides that, I have a weird passion for fixing or repairing broken things.
 \
@@ -16,11 +16,21 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sebastian
 
 Feel free to check out my projects related to data science. 
 
+### [Nutritionist](https://github.com/SebastianGhafafian/Nutritionist)
+
+<img src="./assets/images/Pie.png" alt="Pie Chart" width="500"/>
+
+We are what we eat. But often, we don't know what we eat. This project creates a dashboard app using Dash to load, modify and create recipes. Using a extensive database in the backgorund, the dashboard give a quick overview and a detail view of the nutritional value of the recipe. The [dashboard](https://nutritionist-yrrn.onrender.com/) is deployed using Render. Try to find ouut what's in your favorite snack!
+
+Keywords: Dash, Plotly, Render, Data visualization, Pandas
+
+[Github Link](https://github.com/SebastianGhafafian/Nutritionist)
+
 ### [Exploratory Data Analysis of the Data Science Job market](https://sebastianghafafian.github.io/Portfolio/EDA.html)
 
 <img src="./docs/assets/images/map_interactive.gif" alt="Gif of interactive map" width="500"/>
 
-This projects looks at a data set scraped from Glassdoor.com about job postings in America related to the field of data. The project entails cleaning the data, feature engineering, exploratory data analysis and creating interactive maps to draw insights about the job market, desired skills and potential employers in the Los Angeles area.
+This project looks at a data set scraped from Glassdoor.com about job postings in America related to the field of data. The project entails cleaning the data, feature engineering, exploratory data analysis and creating interactive maps to draw insights about the job market, desired skills and potential employers in the Los Angeles area.
 
 Keywords: EDA, Data visualization, Folium, Pandas, One-Hot Encoding, Cleaning data, Word Clouds
 
