@@ -16,7 +16,7 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/sebastian
 
 Feel free to check out my projects related to data science. 
 
-### SQL Database Agent using LLM
+### SQL Database Agent using LLM (published soon)
 
 SQL is an essential tool for every Data Scientist and Analyst. As data is driving every successful business, it is important that everybody, not only highly trained employees, has easy access to data stored in databases. This project creates an AI Agent that uses the performance of Groq to interact with databases turning text into SQL queries. These queries are directly executed to dramatically shorten the time between business question and gained insight.
 
