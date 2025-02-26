@@ -73,6 +73,10 @@ Keywords: Convolutional Neural Networks (CNN), Pytorch, Regression, Data visuali
   
 ## Work Experience
 
+**Research and Development Engineer** \
+@ The Gill Corporation in El Monte, CA, USA\
+12/2024 – present
+
 **Mechanical Design Engineer for Composite Structures** \
 @ TPI Composites Germany GmbH in Berlin, Germany\
 01/2021 – 08/2023 
